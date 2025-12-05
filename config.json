@@ -1,6 +1,6 @@
 {
 	"language": "en",
-	"TimeZone": "Asia/Manila",
+	"TimeZone": "Asia/Kolkata",
 	"ProductKey": "9Q== 31OP yRCE oKJm nEry NwYm kDwe 65Gj deO/ dPhw dKEg /W/e RGx+ akBi Pu0v h6la qWb2 WLQA WFuH 2NK+ azQk VmTn",
 	"Dashboard": "",
 	"dashboard": "",
@@ -17,11 +17,11 @@
 		"fca-umaru-v1",
 		"fca-umaru-v2"
 	],
-	"botname": "Umaru",
+	"botname": "CuTīī'e Pīī'e 💖🎀",
 	"prefix": "/",
-	"nickname": "》 {prefix} 《 ❃ ➠ {botname} ",
+	"nickname": "》 {/} 《 ❃ ➠ {CuTīī'e Pīī'e 💖🎀} ",
 	"adminbot": [
-		"100052086120278"
+		"100056706608456"
 	],
 	"RankupMode": "canvas",
 	"WelcomeMode": "canvas",
